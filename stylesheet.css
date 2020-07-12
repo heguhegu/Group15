@@ -82,6 +82,11 @@ a {
     font-weight: bold;
     text-decoration: none;
 }
+
+.logo a:link, a:visited {
+  color: white;
+}
+
 .btn {
     padding: 12px 50px;
     color: white;
