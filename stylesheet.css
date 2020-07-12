@@ -83,7 +83,7 @@ a {
     text-decoration: none;
 }
 
-.logo a:link, a:visited {
+.header a:link, a:visited {
   color: white;
 }
 
